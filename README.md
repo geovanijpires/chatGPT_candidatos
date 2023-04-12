@@ -7,6 +7,7 @@ Para simular um banco de dados de currículos, eu pedi ao ChatGPT que criasse 20
 Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas têm em pastas na rede ou nos computadores.
 
 **Informações**
+* Resultados obtidos em alguns testes [Aqui](https://github.com/geovanijpires/chatGPT_candidatos/blob/main/Resultados.pdf)
 * Dados: arquivos pdf dos currículos com dados simulados em /docs 
 * Modelo já treinado e indexados para estes dados: arquivo index.json 
 
