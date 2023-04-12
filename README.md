@@ -1,5 +1,5 @@
 # chatGPT_candidatos
-#Dados: arquivos pdf dos currículos com dados simulados em /docs
+#Dados: arquivos pdf dos currículos com dados simulados em /docs \
 #Modelo já treinado e indexados para estes dados: arquivo index.json
 #Caso tenha mais dados coloque-os na pasta docs e execute o script novamente.
 
