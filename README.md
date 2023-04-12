@@ -31,7 +31,8 @@ Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas tê
 
 `pip install -r requirements.txt`
 
-**6 -Gere sua chave da OpenAI** \
+**6 -Gere sua chave da OpenAI** 
+
 [Cadastro e acesso a openai](https://platform.openai.com/signup) 
 
 Gere a chave indo em: [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
