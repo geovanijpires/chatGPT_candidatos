@@ -6,9 +6,11 @@ Olá, vou mostrar como você pode treinar o modelo para que use seus próprios d
 Para simular um banco de dados de currículos, eu pedi ao ChatGPT que criasse 20 currículos com dados simulados de pessoas e com algumas categorias como idioma, objetivo etc. \
 Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas têm em pastas na rede ou nos computadores.
 
+**Informações**
 * Dados: arquivos pdf dos currículos com dados simulados em /docs 
 * Modelo já treinado e indexados para estes dados: arquivo index.json 
-*Caso tenha mais dados coloque-os na pasta docs e execute o script novamente.
+
+Caso tenha mais dados coloque-os na pasta docs e execute o script novamente.
 
 **1 - Tenha o git instalado** 
 
