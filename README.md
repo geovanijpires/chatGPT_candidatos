@@ -48,6 +48,6 @@ Gere a chave indo em: [https://platform.openai.com/account/api-keys](https://pla
 `python app.py`
 
 
-Ref: \
+Referências: \
 https://openai.com/blog/chatgpt \
 https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/
