@@ -47,6 +47,9 @@ Gere a chave indo em: [https://platform.openai.com/account/api-keys](https://pla
 
 `python app.py`
 
+**9 - Ao término da execução do script acesse a interface para interagir com o chat**
+
+[http://127.0.0.1:7860](http://127.0.0.1:7860)
 
 Referências: \
 https://openai.com/blog/chatgpt \
