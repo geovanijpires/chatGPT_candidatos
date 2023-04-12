@@ -7,9 +7,9 @@ Como foi feito
 Para simular um banco de dados de currículos eu pedi ao ChatGPT que criasse 20 currículos com dados simulados de pessoas e com algumas categorias como idioma, objetivo etc.
 Eu separei estes arquivos em 20 pdfs simulando o que geralmente as empresas tem em pastas na rede ou nos computadores.
 
-#Dados: arquivos pdf dos currículos com dados simulados em /docs \
-#Modelo já treinado e indexados para estes dados: arquivo index.json \
-#Caso tenha mais dados coloque-os na pasta docs e execute o script novamente.
+*Dados: arquivos pdf dos currículos com dados simulados em /docs \
+*Modelo já treinado e indexados para estes dados: arquivo index.json \
+*Caso tenha mais dados coloque-os na pasta docs e execute o script novamente.
 
 **1 - Instalação do python:**
 
