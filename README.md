@@ -14,20 +14,24 @@ Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas tê
 
 [Download aqui](https://git-scm.com/downloads)
 
-**2 - Instalação do python:**
+**2 - Clone o repositório para seu computador**
+
+`git clone https://github.com/geovanijpires/chatGPT_candidatos.git`
+
+**3 - Instalação do python:**
 
 [Download aqui](https://www.python.org/downloads/)
 
-**3 - Crie o ambiente virtual do python e ative**
+**4 - Crie o ambiente virtual do python e ative**
 
 python -m venv .env
 .env\Scrits\activate
 
-**4 - Instale os pacotes necessários**
+**5 - Instale os pacotes necessários**
 
 pip install -r requirements.txt
 
-**5 - Treine o modelo e execute a aplicação do chat**
+**6 - Treine o modelo e execute a aplicação do chat**
 
 python app.py
 
