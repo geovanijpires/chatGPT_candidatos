@@ -10,7 +10,7 @@ Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas tê
 * Dados: arquivos pdf dos currículos com dados simulados em /docs 
 * Modelo já treinado e indexados para estes dados: arquivo index.json 
 
-Caso tenha mais dados coloque-os na pasta docs e execute o script novamente para re-treinar o modelo.
+Caso tenha mais dados coloque-os na pasta docs e execute o script novamente para treinar o modelo novamente.
 
 **1 - Tenha o git instalado** 
 
