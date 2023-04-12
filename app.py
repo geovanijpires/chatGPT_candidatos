@@ -4,7 +4,7 @@ import gradio as gr
 import sys
 import os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'Sua chave OpenIA Api aqui'
 
 def construct_index(directory_path):
     max_input_size = 4096
