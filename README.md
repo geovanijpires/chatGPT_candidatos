@@ -24,7 +24,7 @@ Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas tê
 
 **4 - Crie o ambiente virtual do python e ative**
 
-`python -m venv .env`
+`python -m venv .env` \
 `.env\Scrits\activate`
 
 **5 - Instale os pacotes necessários**
