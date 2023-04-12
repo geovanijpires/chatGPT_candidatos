@@ -31,11 +31,15 @@ Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas tê
 
 `pip install -r requirements.txt`
 
-**Insira sua chave da OpenAI no arquivo app.py**
+**6 -Gere sua chave da OpenAI**
+[https://platform.openai.com/signup](https://platform.openai.com/signup)
+Gere a chave indo em View API Keys
+
+**7 - Insira sua chave da OpenAI no arquivo app.py**
 
 `os.environ["OPENAI_API_KEY"] = 'Sua chave OpenIA Api aqui'`
 
-**6 - Treine o modelo e execute a aplicação do chat**
+**8 - Treine o modelo e execute a aplicação do chat**
 
 `python app.py`
 
