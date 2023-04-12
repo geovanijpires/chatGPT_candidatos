@@ -3,10 +3,11 @@
 
 Olá, vou mostrar como você pode treinar o modelo para que use seus próprios dados em PDF de currículos que sua empresa tenha, para que a área de Recursos Humanos possa, de forma natural, fazer consultas e literalmente conversar com a inteligência por trás deste modelo, economizando tempo e sendo mais assertivos na busca.
 
-Para simular um banco de dados de currículos, eu pedi ao ChatGPT que criasse 20 currículos com dados simulados de pessoas e com algumas categorias como idioma, objetivo etc. Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas têm em pastas na rede ou nos computadores.
+Para simular um banco de dados de currículos, eu pedi ao ChatGPT que criasse 20 currículos com dados simulados de pessoas e com algumas categorias como idioma, objetivo etc. \
+Eu separei estes arquivos em 20 PDFs, simulando o que geralmente as empresas têm em pastas na rede ou nos computadores.
 
-* Dados: arquivos pdf dos currículos com dados simulados em /docs \
-* Modelo já treinado e indexados para estes dados: arquivo index.json \
+* Dados: arquivos pdf dos currículos com dados simulados em /docs 
+* Modelo já treinado e indexados para estes dados: arquivo index.json 
 *Caso tenha mais dados coloque-os na pasta docs e execute o script novamente.
 
 **1 - Tenha o git instalado** 
