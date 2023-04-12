@@ -1,5 +1,5 @@
 # chatGPT_candidatos
-**Criando um chatGPT organizacional para a busca de candidatos a vagas de trabalho baseado em banco de currículos em pdf com linguagem natural.**
+**Criando um chatGPT organizacional para a busca de candidatos a vagas de trabalho baseado em banco de currículos em pdf usando linguagem natural.**
 
 Olá, vou mostrar como você pode treinar o modelo para que use seus próprios dados em PDF de currículos que sua empresa tenha, para que a área de Recursos Humanos possa, de forma natural, fazer consultas e literalmente conversar com a inteligência por trás deste modelo, economizando tempo e sendo mais assertivos na busca.
 
